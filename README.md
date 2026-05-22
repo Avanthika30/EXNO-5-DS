@@ -232,5 +232,6 @@ plt.hist(x,bins=10,color='blue',alpha=0.5)
 plt.show()
 ```
 <img width="534" height="413" alt="image" src="https://github.com/user-attachments/assets/9c4b8a89-e88b-41a0-92e9-dea0a517d671" />
+
 # Result:
 Thus, all the data visualization techniques of matplotlib has been implemented.
